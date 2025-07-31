@@ -1,0 +1,23 @@
+{
+  "name": "mywebsite",
+  "version": "1.0.0",
+  "description": "Website to describe my work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rockio-sy/MyWebsite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rockio-sy/MyWebsite/issues"
+  },
+  "homepage": "https://github.com/Rockio-sy/MyWebsite#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
